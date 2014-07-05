@@ -29,5 +29,16 @@
       "debug/index.js": "browser.js",
       "debug/debug.js": "debug.js"
     }
+  },
+  "cortex": {
+    "main":"browser.js",
+    "dependencies": {
+      "ms": "^0.6.2"
+    },
+    "asyncDependencies": {},
+    "devDependencies": {},
+    "directories": {},
+    "engines": {},
+    "scripts": {}
   }
 }
